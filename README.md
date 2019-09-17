@@ -42,7 +42,7 @@ Greenhouse is a Java web application built for the Spring community that has two
 Deploy the .war to any Servlet 2.5 >, such as Tomcat. By default, the app will run in 'embedded' mode which does not require any external setup. The Tomcat 7 Maven plugin is configured for you in the POM file.
 
 1. Launch Tomcat from the command line:
-
+ddfsdf
 		$ mvn t7:run
 
 2. Access the deployed webapp at 
